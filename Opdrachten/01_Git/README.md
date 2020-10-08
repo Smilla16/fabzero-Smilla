@@ -1,4 +1,4 @@
-# Git gebruiken
+# Opdracht Git gebruiken
 
 Opdracht: Gebruik Git om verslag bij te houden van je vooruitgang.
 
